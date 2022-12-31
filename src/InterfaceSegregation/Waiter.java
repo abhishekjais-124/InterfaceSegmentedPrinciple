@@ -1,4 +1,4 @@
-package InterfaceSegmented;
+package InterfaceSegregation;
 
 public class Waiter implements WaiterInterface{
     @Override

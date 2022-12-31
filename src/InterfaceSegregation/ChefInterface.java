@@ -1,4 +1,4 @@
-package InterfaceSegmented;
+package InterfaceSegregation;
 
 public interface ChefInterface {
     void cookFood();

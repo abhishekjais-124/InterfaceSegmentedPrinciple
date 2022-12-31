@@ -1,4 +1,4 @@
-package NoInterfaceSegmented;
+package NoInterfaceSegregation;
 
 // Here the waiter is forced to implement those methods which is not required
 

@@ -1,4 +1,4 @@
-package NoInterfaceSegmented;
+package NoInterfaceSegregation;
 
 public interface RestaurantEmployee {
 
